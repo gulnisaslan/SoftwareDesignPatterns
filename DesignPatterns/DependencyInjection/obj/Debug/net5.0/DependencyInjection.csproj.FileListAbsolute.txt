@@ -1,0 +1,16 @@
+D:\gülnisaslanyazilim\DependencyInjection\bin\Debug\net5.0\DependencyInjection.exe
+D:\gülnisaslanyazilim\DependencyInjection\bin\Debug\net5.0\DependencyInjection.deps.json
+D:\gülnisaslanyazilim\DependencyInjection\bin\Debug\net5.0\DependencyInjection.runtimeconfig.json
+D:\gülnisaslanyazilim\DependencyInjection\bin\Debug\net5.0\DependencyInjection.runtimeconfig.dev.json
+D:\gülnisaslanyazilim\DependencyInjection\bin\Debug\net5.0\DependencyInjection.dll
+D:\gülnisaslanyazilim\DependencyInjection\bin\Debug\net5.0\ref\DependencyInjection.dll
+D:\gülnisaslanyazilim\DependencyInjection\bin\Debug\net5.0\DependencyInjection.pdb
+D:\gülnisaslanyazilim\DependencyInjection\obj\Debug\net5.0\DependencyInjection.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\DependencyInjection\obj\Debug\net5.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\gülnisaslanyazilim\DependencyInjection\obj\Debug\net5.0\DependencyInjection.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\DependencyInjection\obj\Debug\net5.0\DependencyInjection.AssemblyInfo.cs
+D:\gülnisaslanyazilim\DependencyInjection\obj\Debug\net5.0\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\DependencyInjection\obj\Debug\net5.0\DependencyInjection.dll
+D:\gülnisaslanyazilim\DependencyInjection\obj\Debug\net5.0\ref\DependencyInjection.dll
+D:\gülnisaslanyazilim\DependencyInjection\obj\Debug\net5.0\DependencyInjection.pdb
+D:\gülnisaslanyazilim\DependencyInjection\obj\Debug\net5.0\DependencyInjection.genruntimeconfig.cache

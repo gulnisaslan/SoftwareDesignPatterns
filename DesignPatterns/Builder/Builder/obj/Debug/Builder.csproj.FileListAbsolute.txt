@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Builder\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Builder\Builder\obj\Debug\Builder.pdb

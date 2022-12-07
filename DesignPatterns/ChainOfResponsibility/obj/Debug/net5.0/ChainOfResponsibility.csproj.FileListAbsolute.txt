@@ -1,0 +1,16 @@
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.exe
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.deps.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.runtimeconfig.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.runtimeconfig.dev.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\bin\Debug\net5.0\ref\ChainOfResponsibility.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\obj\Debug\net5.0\ref\ChainOfResponsibility.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\bin\Debug\net5.0\StateDesignPattern.exe
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\bin\Debug\net5.0\StateDesignPattern.deps.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\bin\Debug\net5.0\StateDesignPattern.runtimeconfig.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\bin\Debug\net5.0\StateDesignPattern.runtimeconfig.dev.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\bin\Debug\net5.0\StateDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\bin\Debug\net5.0\ref\StateDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\bin\Debug\net5.0\StateDesignPattern.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\obj\Debug\net5.0\ref\StateDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.genruntimeconfig.cache

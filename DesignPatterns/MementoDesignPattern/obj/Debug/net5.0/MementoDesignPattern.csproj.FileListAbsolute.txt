@@ -1,0 +1,16 @@
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\bin\Debug\net5.0\MementoDesignPattern.exe
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\bin\Debug\net5.0\MementoDesignPattern.deps.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\bin\Debug\net5.0\MementoDesignPattern.runtimeconfig.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\bin\Debug\net5.0\MementoDesignPattern.runtimeconfig.dev.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\bin\Debug\net5.0\MementoDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\bin\Debug\net5.0\ref\MementoDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\bin\Debug\net5.0\MementoDesignPattern.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\obj\Debug\net5.0\ref\MementoDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.genruntimeconfig.cache

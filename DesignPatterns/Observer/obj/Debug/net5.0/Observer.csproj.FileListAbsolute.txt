@@ -1,0 +1,16 @@
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\bin\Debug\net5.0\Observer.exe
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\bin\Debug\net5.0\Observer.deps.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\bin\Debug\net5.0\Observer.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\bin\Debug\net5.0\ref\Observer.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\bin\Debug\net5.0\Observer.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\obj\Debug\net5.0\Observer.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\obj\Debug\net5.0\Observer.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\obj\Debug\net5.0\ref\Observer.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\obj\Debug\net5.0\Observer.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache

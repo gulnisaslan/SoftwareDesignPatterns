@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.exe
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.deps.json
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.runtimeconfig.json
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\bin\Debug\net5.0\ref\Proxy.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.pdb
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\obj\Debug\net5.0\ref\Proxy.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.pdb
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.genruntimeconfig.cache

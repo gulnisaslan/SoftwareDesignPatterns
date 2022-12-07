@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\bin\Debug\net5.0\FactoryDesignPattern.exe
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\bin\Debug\net5.0\FactoryDesignPattern.deps.json
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\bin\Debug\net5.0\FactoryDesignPattern.runtimeconfig.json
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\bin\Debug\net5.0\FactoryDesignPattern.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\bin\Debug\net5.0\FactoryDesignPattern.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\bin\Debug\net5.0\ref\FactoryDesignPattern.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\bin\Debug\net5.0\FactoryDesignPattern.pdb
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\obj\Debug\net5.0\ref\FactoryDesignPattern.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.pdb
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.genruntimeconfig.cache

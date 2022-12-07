@@ -1,0 +1,16 @@
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\bin\Debug\net5.0\TemplateMethodDesign.exe
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\bin\Debug\net5.0\TemplateMethodDesign.deps.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\bin\Debug\net5.0\TemplateMethodDesign.runtimeconfig.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\bin\Debug\net5.0\TemplateMethodDesign.runtimeconfig.dev.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\bin\Debug\net5.0\TemplateMethodDesign.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\bin\Debug\net5.0\ref\TemplateMethodDesign.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\bin\Debug\net5.0\TemplateMethodDesign.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\obj\Debug\net5.0\TemplateMethodDesign.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\obj\Debug\net5.0\TemplateMethodDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\obj\Debug\net5.0\TemplateMethodDesign.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\obj\Debug\net5.0\TemplateMethodDesign.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\obj\Debug\net5.0\TemplateMethodDesign.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\obj\Debug\net5.0\TemplateMethodDesign.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\obj\Debug\net5.0\ref\TemplateMethodDesign.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\obj\Debug\net5.0\TemplateMethodDesign.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\TemplateMethodDesign\obj\Debug\net5.0\TemplateMethodDesign.genruntimeconfig.cache

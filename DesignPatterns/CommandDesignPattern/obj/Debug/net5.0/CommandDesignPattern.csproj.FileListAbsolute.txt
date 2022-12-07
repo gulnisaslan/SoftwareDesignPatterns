@@ -1,0 +1,16 @@
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.exe
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.deps.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.runtimeconfig.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.runtimeconfig.dev.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\bin\Debug\net5.0\ref\CommandDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\obj\Debug\net5.0\ref\CommandDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.genruntimeconfig.cache

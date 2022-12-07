@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\obj\Debug\netcoreapp3.1\Composites.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\obj\Debug\netcoreapp3.1\Composites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\obj\Debug\netcoreapp3.1\Composites.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\obj\Debug\netcoreapp3.1\Composites.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\obj\Debug\netcoreapp3.1\Composites.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\bin\Debug\netcoreapp3.1\Composites.exe
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\bin\Debug\netcoreapp3.1\Composites.deps.json
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\bin\Debug\netcoreapp3.1\Composites.runtimeconfig.json
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\bin\Debug\netcoreapp3.1\Composites.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\bin\Debug\netcoreapp3.1\Composites.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\bin\Debug\netcoreapp3.1\Composites.pdb
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\obj\Debug\netcoreapp3.1\Composites.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\obj\Debug\netcoreapp3.1\Composites.pdb
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\Composites\Composites\obj\Debug\netcoreapp3.1\Composites.genruntimeconfig.cache

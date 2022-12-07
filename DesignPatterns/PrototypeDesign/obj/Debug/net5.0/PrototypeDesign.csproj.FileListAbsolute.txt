@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\bin\Debug\net5.0\PrototypeDesign.exe
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\bin\Debug\net5.0\PrototypeDesign.deps.json
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\bin\Debug\net5.0\PrototypeDesign.runtimeconfig.json
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\bin\Debug\net5.0\PrototypeDesign.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\bin\Debug\net5.0\PrototypeDesign.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\bin\Debug\net5.0\ref\PrototypeDesign.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\bin\Debug\net5.0\PrototypeDesign.pdb
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\obj\Debug\net5.0\ref\PrototypeDesign.dll
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.pdb
+C:\Users\Admin\Desktop\CSharp\DesignPatterns\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.genruntimeconfig.cache

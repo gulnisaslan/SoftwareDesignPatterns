@@ -1,0 +1,16 @@
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\bin\Debug\net5.0\MediatorDesignPattern.exe
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\bin\Debug\net5.0\MediatorDesignPattern.deps.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\bin\Debug\net5.0\MediatorDesignPattern.runtimeconfig.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\bin\Debug\net5.0\MediatorDesignPattern.runtimeconfig.dev.json
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\bin\Debug\net5.0\MediatorDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\bin\Debug\net5.0\ref\MediatorDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\bin\Debug\net5.0\MediatorDesignPattern.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.csproj.AssemblyReference.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.AssemblyInfoInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.AssemblyInfo.cs
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.csproj.CoreCompileInputs.cache
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\obj\Debug\net5.0\ref\MediatorDesignPattern.dll
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.pdb
+D:\gülnisaslanyazilim\yazilim\CSharp\C#Lesson\DesignPatternsAndCSharpRules\DesignPatterns\MediatorDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.genruntimeconfig.cache
